@@ -1,0 +1,14 @@
+{
+  "name": "smartsheet_helloworld",
+  "version": "1.0.0",
+  "description": "testing smartsheet",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "author": "thorsten@thorstenkober.com",
+  "license": "ISC",
+  "dependencies": {
+    "smartsheet": "^1.4.0"
+  }
+}
